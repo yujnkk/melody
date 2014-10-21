@@ -1,3 +1,2 @@
-Git is a version control system.
-Git is free software
-GIt 
+This is my first use of github.
+Try to write my code's history. 
